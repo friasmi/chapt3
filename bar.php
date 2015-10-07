@@ -1,0 +1,2 @@
+include('foo.php');
+foo();
